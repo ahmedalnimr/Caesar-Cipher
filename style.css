@@ -1,0 +1,32 @@
+#text, #shiftAmount, #encodedText {
+    width: 80%;
+    height: 50px;
+    font-size: 20px;
+    margin: 20px auto;
+    display: block;
+    text-align: center;
+  }
+  
+  #text {
+    height: 100px;
+  }
+  
+  #options {
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #encryptButton, #decryptButton {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+    margin: auto;
+    cursor: pointer;
+    
+  }
+  
+  #input-group {
+    width: 50px;
+    height: 20px;
+  }
